@@ -36,6 +36,7 @@ public class Asistencia extends JFrame implements ActionListener {
 	/**
 	 * Launch the application.
 	 */
+	//Segundo commit
 	public static void main(String[] args) {
 		EventQueue.invokeLater(new Runnable() {
 			public void run() {
