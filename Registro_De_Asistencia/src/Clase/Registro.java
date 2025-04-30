@@ -13,7 +13,7 @@ public class Registro {
 	    public void agregarEstudiante(Estudiante estudiante) {
 	        listaEstudiantes.add(estudiante);
 	    }
-
+        commit 3
 	    public ArrayList<Estudiante> getListaEstudiantes() {
 	        return listaEstudiantes;
 	    }
