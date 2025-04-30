@@ -3,7 +3,7 @@ package Clase;
 import java.util.ArrayList;
 
 public class Registro {
-	
+	commit 4
 	    private ArrayList<Estudiante> listaEstudiantes;
 
 	    public Registro() {
